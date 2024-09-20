@@ -55,7 +55,8 @@ Analyzed cumulative revenue over time to understand sales growth.
 **Top 3 Pizzas in Each Category:**
 
 Ranked pizzas by revenue within their respective categories to identify the best-sellers.
-Results
+
+**Results**
 
 **The SQL queries yielded several key insights:**
 
