@@ -19,8 +19,8 @@ Identified the pizza with the highest price to understand pricing strategies.
 **Order Size Analysis:**
 
 Determined the most common pizza size ordered by aggregating sizes from the pizzas table.
-**
-Top Pizzas by Quantity Ordered:**
+
+**Top Pizzas by Quantity Ordered:**
 
 Extracted the top 5 pizzas based on the quantity ordered, utilizing joins between relevant tables.
 
